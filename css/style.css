@@ -28,10 +28,10 @@ html {
 }
 
 .headerRef:nth-child(3n+1){
-  background-color: lightblue;
+  background-color: white;
 }
 .headerRef:nth-child(3n+2){
-  background-color: pink;
+  background-color: white;
 }
 .headerRef:nth-child(3n){
   background-color: white;
