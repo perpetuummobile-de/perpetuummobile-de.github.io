@@ -1,5 +1,5 @@
 html {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Calibri; 
 }
 
 .heading {
@@ -40,12 +40,17 @@ body {
 }
 
 .content {
-  margin: 0% 30% 1em 30%;
+  margin: 0% 25% 1em 25%;
   padding: 0.001em 1em 0.001em 1em;
 
   font-size:  20px;
 
   background-color: rgba(255, 255, 255, .75);
+}
+
+.content h1{
+font-size: 50px;
+text-align: center;
 }
 
 #organiserContainer {
@@ -114,4 +119,9 @@ body {
     padding-left: 0;
     width: 100%;
   }
+}
+
+@font-face {
+  font-family: "Calibri";
+  src: url("/css/fonts/Calibri.woff") format("woff");
 }
