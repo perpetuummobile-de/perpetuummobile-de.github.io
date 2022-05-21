@@ -32,10 +32,12 @@ Es ist ein Spektrum! Auch Leute, die nicht über die Diagnose-Grenze hinaus komm
 **Wichtig:** Wir dulden keine Diskriminierung, egal welcher Art. Keine TERF´s, keinen Rassismus, keine Queerfeindlichkeit, keinen Ableismus. Wir geben unser BEstes, ein Safer Space zu ein. Wenn euch etwas Schlechtes innerhalb unserer Community passiert, dann schreibt uns gerne eine Mail oder eine DM auf unseren Social Media Kanälen. Konsequenzen bei Verstößen gegen unsere Awareness-Regeln können Gespräche, temporäre Verweise oder der Rausschmiss aus unserer Gruppe sein, je nach Situation.
 Hoffen wir, dass all das nicht nötig sein wird. :)
 
-
-
-Für Veranstaltungen folge uns auf Facebook unter
-[PerpetuumMobileSpace](https://fb.me/PerpetuumMobileSpace)
+Tausche dich mit uns auf unserem Discord-Server aus:
+<br>
+<iframe src="https://discord.com/widget?id=892837677072797766&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+Und komme in unsere Telegram-Gruppe, wenn du beim nächsten Treffen dabei sein willst:
+<br>
+<https://t.me/+KlR0feIXbZAzZDdi>
 <!--Für News und aktuelle Infos folge uns auf Instagram unter
 <a href="https://www.instagram.com/mission_trans/">@mission_trans</a>.-->
 
