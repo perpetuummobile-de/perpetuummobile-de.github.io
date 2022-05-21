@@ -3,7 +3,7 @@ layout: default
 ---
 
 # Willkommen bei Perpetuum Mobile
-![Perpetuum Mobile Logo](/images/PerpetuumMobileLogo.png)
+![Perpetuum Mobile Logo](/images/PerpetuumMobileLogoCropped.png)
 
 ## Wir sind:
 
